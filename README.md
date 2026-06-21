@@ -1,4 +1,5 @@
 Data Professional Survey Report Dashboard
+
 A fully interactive Power BI dashboard analyzing responses from 216 data professionals across the globe.
 This project explores trends in salary, job roles, programming languages, happiness, work–life balance, and the difficulty of breaking into the data field.
 
